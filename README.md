@@ -1,5 +1,5 @@
 # hello-world
-first  repository for trail
+First  repository for trail
 
 Hi Friends!
 
